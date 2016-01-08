@@ -1,7 +1,7 @@
 package br.alura.refatoracao.cap6;
 
 public enum Moeda {
-	DOLAR(2.7), EURO(3.0), REAL(1D);
+	DOLAR(2.7), EURO(3.0), REAL(1d);
 
 	private Double taxa;
 
